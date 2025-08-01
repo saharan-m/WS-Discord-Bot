@@ -1,4 +1,16 @@
 
+# Important information (01.08.2025)
+I don't have a Discord channel right now.
+I only have an email address: usabsz@gmail.com
+Wos Land does not belong to me.  
+Wos Land is a project that was stolen from me.  
+If you look back, you will see that I was the one who started the Wos Land and Discord bot project.  
+A few months ago, I suffered severe burns on my body due to a gas explosion and became unable to do anything. The people I trusted and gave authority to took advantage of this situation and took everything I owned.
+While I was fighting for my life in the hospital, they took away my entire project.
+
+I advise you not to trust any other project besides this one.  
+Once the skin on my body has regenerated, I will continue developing the project.
+
 # V4 Mass Update List (25.02.2025)
 
 Since the release of V4, we've implemented numerous changes and improvements. Here's a comprehensive overview of the latest updates:
