@@ -1,4 +1,4 @@
-
+A long time ago, while working on this project, my car caught fire, causing severe burns to my body. Before that, the people I trusted to hand over the project to, and those I gave authority to, betrayed me. While I was in the hospital receiving burn treatment, they stole all my data and projects. I was the one who originally started the entire bot and Discord project—they only stole my data. Soon, I will report everything they are selling for money to the WOS team. We are currently in contact, and I will release the entire project’s source code completely free of charge. You will achieve nothing with the project and members you stole from me. Our work with the authorities to fix all the vulnerabilities in White of Survival is ongoing. My warning to you at this stage: never invest your money into projects that will inevitably be shut down—always choose free projects.
 # Important information (01.08.2025)
 I don't have a Discord channel right now.
 I only have an email address: usabsz@gmail.com
