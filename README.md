@@ -4,6 +4,7 @@ I don't have a Discord channel right now.
 I only have an email address: usabsz@gmail.com
 Wos Land does not belong to me.  
 Wos Land is a project that was stolen from me.  
+https://discord.gg/SSQBFvk73V
 If you look back, you will see that I was the one who started the Wos Land and Discord bot project.  
 A few months ago, I suffered severe burns on my body due to a gas explosion and became unable to do anything. The people I trusted and gave authority to took advantage of this situation and took everything I owned.
 While I was fighting for my life in the hospital, they took away my entire project.
@@ -42,7 +43,7 @@ Since the release of V4, we've implemented numerous changes and improvements. He
   - 18:00 (Event start)
   ```
 - Web interface for notification management
-  - Visit: [wosland.com/notification](https://wosland.com/notification)
+  - Visit: https://discord.gg/SSQBFvk73V
 
 ## 💾 Backup System
 - Automatic database backup
@@ -69,8 +70,8 @@ Join our Discord community for:
 - Direct support
 - Feature requests
 - Updates and announcements
-- [Join Discord Server](https://discord.gg/h8w6N6my4a)
-
+- [Join Discord Server
+](https://discord.gg/SSQBFvk73V)
 ## 🔄 Ongoing Development
 We continue to:
 - Implement user feedback
@@ -81,7 +82,7 @@ We continue to:
 Have a great day! 
 
 ---
-*For more information and support, visit our [Discord Server](https://discord.gg/h8w6N6my4a)*
+*For more information and support, visit our [Discord Server https://discord.gg/SSQBFvk73V
 
 # V4 UPDATED
 
@@ -112,7 +113,7 @@ Thank you for using our Discord bot. This bot is designed to help manage your Wh
 If you're experiencing any issues or need assistance with the bot, we're here to help!
 
 ### 📞 Contact Methods
-- **Discord Server:** [Join Our Community](https://discord.gg/h8w6N6my4a)
+- **Discord Server:** [Join Our Community](https://discord.gg/SSQBFvk73V))
 - **Developer:** Reloisback
 - **Direct Support:** Feel free to message me on Discord
 
@@ -166,7 +167,7 @@ I love this community and thank you all for being part of this journey. ❤️
 ---
 
 ### Quick Links
-- [Discord Server](https://discord.gg/h8w6N6my4a)
+- [Discord Server](https://discord.gg/SSQBFvk73V))
 - [Support Page](https://www.buymeacoffee.com/reloisback)
 - Discord: Reloisback
 
