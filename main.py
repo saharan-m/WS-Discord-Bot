@@ -243,7 +243,7 @@ if __name__ == "__main__":
 
     token_file = 'bot_token.txt'
     if not os.path.exists(token_file):
-        bot_token = "MTQxMDk1MTUzNDMwODQ5MTMxNQ.GXPiYL.SVIAbiTLLtbByh9xUQZlFfyyFbc-vo8mJHqTZA"
+        bot_token = input("Enter the bot token: ")
         with open(token_file, 'w') as f:
             f.write(bot_token)
     else:
